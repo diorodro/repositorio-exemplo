@@ -1,0 +1,11 @@
+br\com\resource\comercio\config\WebMvcConfig.class
+br\com\resource\comercio\model\Compra.class
+br\com\resource\comercio\config\AppInitializer.class
+br\com\resource\comercio\controller\IndexController.class
+br\com\resource\comercio\model\CompraProduto.class
+br\com\resource\comercio\model\Produto.class
+br\com\resource\comercio\config\HibernateConfig.class
+br\com\resource\comercio\model\Cliente.class
+br\com\resource\comercio\model\CompraProdutoId.class
+br\com\resource\comercio\dao\Dao.class
+br\com\resource\comercio\controller\ProdutoController.class
